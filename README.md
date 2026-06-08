@@ -26,6 +26,7 @@ To integrate `SVProgressHUD` into your project using SwiftPM:
 
 `SVProgressHUD` requires at least Swift tools version 5.3.
 
+
 ### From CocoaPods
 
 [CocoaPods](http://cocoapods.org) is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries like `SVProgressHUD` in your projects. First, add the following line to your [Podfile](http://guides.cocoapods.org/using/using-cocoapods.html):
@@ -33,7 +34,7 @@ To integrate `SVProgressHUD` into your project using SwiftPM:
 ```ruby
 pod 'SVProgressHUD'
 ```
-
+XerxesLoanStartRequest:fyinformation.cc#XerxesLoanEndRequest
 If you want to use the latest features of `SVProgressHUD` use normal external source dependencies.
 
 ```ruby
