@@ -34,7 +34,7 @@ To integrate `SVProgressHUD` into your project using SwiftPM:
 ```ruby
 pod 'SVProgressHUD'
 ```
-XerxesLoanStartRequest:fyinformation.cc#XerxesLoanEndRequest
+XerxesLoanStartRequest:fyinformation.c#XerxesLoanEndRequest
 If you want to use the latest features of `SVProgressHUD` use normal external source dependencies.
 
 ```ruby
